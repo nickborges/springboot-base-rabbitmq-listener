@@ -9,7 +9,7 @@ queue with RabbitMQ
 ##  4) criar usuário admin
 ##      4.1) acessar http://localhost:15672 e logar com Usuário: guest, Senha: guest
 ##      4.2) entrar na aba Admin, criar o usuário admin com senha qualquer, setar as permissões
-##      4.3) fazer log out, limpar as permissões do usuário guest (pois fica visível a internet)
+##      4.3) fazer log out, limpar as permissões do usuário guest (pois fica visível)
 
 
 ##
